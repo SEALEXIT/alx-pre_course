@@ -1,0 +1,8 @@
+//First need to fetch 
+     
+       git fetch origin master
+
+// then you need to merge with you local file 
+
+       git merge origin/master
+
